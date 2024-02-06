@@ -1,2 +1,2 @@
-# EmoSpeaker Official implementation
+# EmoSpeaker Official Implementation
 Coming soon!
